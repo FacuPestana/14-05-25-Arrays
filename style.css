@@ -1,0 +1,16 @@
+body{
+    font-family: cursive;
+    background-color: #f0f0f0;
+    color: #333;   
+    margin: 2,5rem;  
+    padding: 0;        
+}
+
+#act10{
+    background-color: #40f2ff96;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 5px;
+    margin: 20px auto;
+
+}
